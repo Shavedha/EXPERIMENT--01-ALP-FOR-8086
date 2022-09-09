@@ -23,7 +23,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 6.	Click OK to see/view the output of your program on the Emulator screen. 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
 8.	 
-![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.pn
+![image](https://user-images.githubusercontent.com/93427376/189386349-d6bf2b90-8067-489c-aa66-3c5bf4b5335f.png)
+
 9.	Click on emulate to start emulation 
 ![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
 10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below 
